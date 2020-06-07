@@ -1,0 +1,59 @@
+{
+    "0": {
+        "id": 0,
+        "area": {
+            "id": 2072,
+            "name": "England"
+        },
+        "name": "Arsenal FC",
+        "shortName": "Arsenal",
+        "tla": "ARS",
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+        "address": "75 Drayton Park London N5 1BU",
+        "phone": "+44 (020) 76195003",
+        "website": "http://www.arsenal.com",
+        "email": "info@arsenal.co.uk",
+        "founded": 1886,
+        "clubColors": "Red / White",
+        "venue": "Emirates Stadium",
+        "lastUpdated": "2020-05-14T02:41:34Z"
+    },
+    "1": {
+        "id": 1,
+        "area": {
+            "id": "2072",
+            "country": "England"
+        },
+        "name": "Chelsea FC",
+        "shortName": "Chelsea",
+        "tla": "CFC",
+        "crestUrl": "http://localhost:8080/images/10c500870939025f19e8e22b6676eaf4",
+        "address": "Fulhalm Road SW6 1HS London",
+        "phone": "442073869",
+        "website": "www.chelseafc.com",
+        "email": "officialsupportersclubs@chelseafc.com",
+        "founded": "1905",
+        "clubColors": "Blue",
+        "venue": "Stamford Bridge",
+        "lastUpdated": "2020-06-07T17:06:49.474Z"
+    },
+    "2": {
+        "id": 2,
+        "area": {
+            "id": "2072",
+            "country": "England"
+        },
+        "name": "Liverpool FC",
+        "shortName": "Liverpool",
+        "tla": "LFC",
+        "crestUrl": "http://localhost:8080/images/dad46235a592b822da822e8b611c103a",
+        "address": "Liverpool Football Club   Anfield Road   Liverpool   L4 OTH ",
+        "phone": "01512642500",
+        "website": "www.liverpoolfc.com",
+        "email": "admin@liverpoolfc.com",
+        "founded": "1892",
+        "clubColors": "Red",
+        "venue": "Anfield",
+        "lastUpdated": "2020-06-07T16:29:01.216Z"
+    }
+}
